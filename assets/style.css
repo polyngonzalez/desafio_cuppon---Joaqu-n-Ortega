@@ -1,0 +1,39 @@
+.tipografia {
+
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.miEstiloParaCard{
+
+    font-size: 12px;
+    color: grey;
+}
+
+.priceInCard {
+
+    border-top: solid;
+
+}
+
+.PreciosNormal {
+
+    text-align: right;
+    color: grey;
+    font-size: 0.9em;
+
+}
+
+.PreciosOferta {
+
+    text-align: right;
+    color:green;
+    font-size: 1em;
+    font-weight: 800;
+}
+
+.localdot {
+
+    font-size: 11px;
+
+}
